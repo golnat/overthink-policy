@@ -3,7 +3,7 @@
 ## Contact Us
 
 For any questions, feedback, or support needs regarding the Overthink app, please contact us at:
-[Your Contact Email]
+help.natgol@gmail.com
 
 ## Frequently Asked Questions
 
@@ -32,6 +32,3 @@ If you encounter any issues or have suggestions for improvement, please email us
 - Compatible with iPhone
 
 ## Updates and News
-
-Follow us for the latest updates and features:
-[Your Social Media Links] 
