@@ -5,8 +5,6 @@
 For any questions, feedback, or support needs regarding the Overthink app, please contact us at:
 help.natgol@gmail.com
 
-Phone: (555) 123-4567 (Email is our preferred contact method for fastest response)
-Address: 123 Main Street, Suite 456, San Francisco, CA 94105
 
 ## Frequently Asked Questions
 
@@ -28,6 +26,7 @@ Key features include:
 Overthink makes message analysis simple and effective:
 
 1. **Enter your message** - Type or paste the text you want to analyze
+   
 2. **Choose your desired tone** - Select from three modes:
    - Excited Mode: Perfect for enthusiastic, high-energy messages
    - Chill Mode: Ideal for casual, relaxed communication
